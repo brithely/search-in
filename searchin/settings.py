@@ -64,6 +64,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'youtube',
+    'django_extensions',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
