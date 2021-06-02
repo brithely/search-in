@@ -46,7 +46,7 @@ sqlparse==0.3.1
 toml==0.10.1
 typed-ast==1.4.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 wrapt==1.12.1
 yapf==0.30.0
 astroid==2.4.1
@@ -83,6 +83,6 @@ sqlparse==0.3.1
 toml==0.10.1
 typed-ast==1.4.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 wrapt==1.12.1
 yapf==0.30.0
